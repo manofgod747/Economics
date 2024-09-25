@@ -43,7 +43,7 @@ Unproductive endeavours.
 
 ### Directional Axioms
 1. Optimize Output
-2. Optimize Pollution
+2. Minimize Pollution
 3. Minimize Technology
 
 ## Appendix
