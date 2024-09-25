@@ -30,9 +30,10 @@ Unproductive endeavours.
 ## The Axioms of Economics
 
 ### Natural Axioms
-1. Humans and psychology
+1. Humans
 3. Animals
 4. Natural Resources
+5. Water
 
 ### Foundational Axioms
 1. Output
@@ -46,13 +47,26 @@ Unproductive endeavours.
 2. Minimize Pollution
 3. Minimize Technology
 
+## Psychology
+
+### Population Density
+Population density has psychological implications that govern human and animal behaviour. As population density increases, behaviour degenerates. The degeneration of behaviour is an effect of the limitations of the human mind in how many people can be known and trusted. The number is low compared to the population of densly populated areas. Social norms break apart as populations increase. Communication suffers. All densly populated areas inevitably fall due to this phenomenom.
+
+Degenerations increases violence. Violence causes trauma. Trauma leads to ignorance. Ignorance leads to conflict. Conflict decreases trust. Low levels of trust makes people fearful. Fear and ignorace corrupts systems. A corrupted system breaks apart. 
+
+Poorly designed cities that do not take into account the psychological aspects of life naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth.
+
 ## Foundation
 
 ### Criteria for Output Optimization
 1. Why is optimization of output necessary?
 2. What are the criteria for optimization?
-3. How do we select what the optimal level of output is?
-4. What variables fluctuate the level of output? 
+3. How do we select what the optimal level of output should be?
+4. What variables fluctuate the level of output?
+
+Output defines the rate of natural resource extraction. Output rate depends on population size and the technological living standard, 
+
+## Taxation Analysis
 
 ## Appendix
 ### A Note on Classical Economics
