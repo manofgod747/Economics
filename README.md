@@ -70,4 +70,6 @@ Employment can only be defined in relation to money. It is not a meaningful conc
 ### Corporations
 Corporations can only be defined in relation to money and legislation. Corporations would not exist where it not for the legal and monetary benefits they provide. Corporations could be abolished if legislation was made fair. 
 
+The role of corporations and employment are both better modeled using agreement (contract). 
+
 
