@@ -12,9 +12,6 @@ Technology is synonymous to the word tools
 #### Logistics
 The system of organization used to solve complex problems.
 
-#### Resource Manipulation
-Manipulation is the process of extraction, refinement, and logistics of resources. 
-
 #### Manipulation 
 Manipulation is the process of extraction, refinement, and logistics of resources. 
 
