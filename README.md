@@ -29,6 +29,9 @@ A mathematical term that describes the methods used to meet certain well defined
 #### Politics
 Politics is the system of governance involved in matters of output, pollution, technology and optimization.
 
+#### Transaction Cost
+Unproductive endeavours.
+
 ### Natural Axioms
 1. Humans
 2. Animals
@@ -39,6 +42,7 @@ Politics is the system of governance involved in matters of output, pollution, t
 2. Pollution
 3. Politics
 4. Technology
+5. Transaction Cost
 
 ### Directional Axioms
 1. Optimize Output
@@ -49,13 +53,21 @@ Politics is the system of governance involved in matters of output, pollution, t
 ### A Note on Classical Economics
 Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions made by Richard Keynes, The Chicago School of Economics...
 
-The principles of classical economics make errors of assumption. The foundational errors are the following:
+The principles of classical economics make errors of assumption. These assumptions serve to complicate and confuse economic theory. The foundational errors are the following:
 
-### Credit swap systems (money) 
-Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of econmics that take systems for granted fail to provide scientific grounds for reasonable analysis.
+### Credit swap systems (Money) 
+Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of econmics that take systems for granted fail to provide scientific grounds for reasonable analysis. 
 
 ### Interest Rates
+Interest rates are an arbitrary invention that lack reasonable purpose. Central banks fail to motivate the existence of interest rates. Interest rates are set to meet some arbitrary value with no scientific justification whatsoever.
+
+### Taxation
+From an objective standpoint, taxation is fraud. Fraud is defined as wrongful or criminal deception intented to result in financial or personal gain. Taxation is taken for granted because of force of habit.
 
 ### Employment
+Employment can only be defined in relation to money. It is not a meaningful concept. 
+
+### Corporations
+Corporations can only be defined in relation to money and legislation. Corporations would not exist where it not for the legal and monetary benefits they provide. Corporations could be abolished if legislation was made fair. 
 
 
