@@ -1,5 +1,5 @@
 # Economics
-Economics is the scientific study of natural resource distribution. The goal of economic is to provide a framwework to analyze resource distribution. The analytical tools must aid in economic decision making regarding questions of fairness, freedom, and autonomy. 
+Economics is the scientific study of natural resource distribution. The goal of economic theory is to provide a framwework to analyze resource distribution. The analytical tools must aid in economic decision making regarding questions of fairness, freedom, and autonomy. 
 
 ## Definitions
 
