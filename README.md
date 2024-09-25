@@ -1,9 +1,7 @@
 # Economics
 Economics is the scientific study of natural resource distribution. The goal of economic is to provide a framwework to analyze resource distribution. The analytical tools must aid in economic decision making regarding questions of fairness, freedom, and autonomy. 
 
-## The Axioms of Economics
-
-### Definitions
+## Definitions
 
 #### Output
 The amount of natural resource extraction per time unit
@@ -32,12 +30,14 @@ Politics is the system of governance involved in matters of output, pollution, t
 #### Transaction Cost
 Unproductive endeavours.
 
+## The Axioms of Economics
+
 ### Natural Axioms
 1. Humans
 2. Animals
 3. Natural Resources
 
-## Foundational Axioms
+### Foundational Axioms
 1. Output
 2. Pollution
 3. Politics
