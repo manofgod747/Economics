@@ -11,11 +11,11 @@ The amount of natural resource extraction per time unit
 #### Pollution
 The rate and type of unwanted externalities during resource manipulation. Manipulation is the process of extraction, refinement, and logistics of resources. Externalities are the side effects of resource manipulation forced by the technological means of manipulation. 
 
-#### Politics
-Politics is the system of governance involved in matters of output and pollution.
-
 #### Optimization
 A mathematical term that describes the methods used to meet a goal
+
+#### Politics
+Politics is the system of governance involved in matters of output, pollution, and optimization.
 
 ### Natural Axioms
 1. Humans
