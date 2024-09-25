@@ -7,7 +7,7 @@ Economics is the scientific study of natural resource distribution. The goal of 
 The amount of natural resource extraction per time unit
 
 #### Technology
-Technology is synonymous to the word tools
+Technology is synonymous to the word tool
 
 #### Logistics
 The system of organization used to solve complex problems.
