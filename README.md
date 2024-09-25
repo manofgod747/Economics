@@ -8,14 +8,26 @@ Economics is the scientific study of natural resource distribution. The goal of 
 #### Output
 The amount of natural resource extraction per time unit
 
+#### Technology
+Technology is synonymous to the word tools
+
+#### Logistics
+The system of organization used to solve complex problems.
+
+#### Resource Manipulation
+Manipulation is the process of extraction, refinement, and logistics of resources. 
+
+#### Manipulation 
+Manipulation is the process of extraction, refinement, and logistics of resources. 
+
 #### Pollution
-The rate and type of unwanted externalities during resource manipulation. Manipulation is the process of extraction, refinement, and logistics of resources. Externalities are the side effects of resource manipulation forced by the technological means of manipulation. 
+The rate and type of unwanted externalities during resource manipulation. Externalities are the side effects of resource manipulation forced by technology. 
 
 #### Optimization
-A mathematical term that describes the methods used to meet a goal
+A mathematical term that describes the methods used to meet certain well defined goal criteria.
 
 #### Politics
-Politics is the system of governance involved in matters of output, pollution, and optimization.
+Politics is the system of governance involved in matters of output, pollution, technology and optimization.
 
 ### Natural Axioms
 1. Humans
@@ -42,5 +54,8 @@ The principles of classical economics make errors of assumption. The foundationa
 ### Credit swap systems (money) 
 Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of econmics that take systems for granted fail to provide scientific grounds for reasonable analysis.
 
+### Interest Rates
+
+### Employment
 
 
