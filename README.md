@@ -33,3 +33,14 @@ A mathematical term that describes the methods used to meet a goal
 2. Optimize Pollution
 3. Minimize Technology
 
+## Appendix
+### A Note on Classical Economics
+Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions made by Richard Keynes, The Chicago School of Economics...
+
+The principles of classical economics make errors of assumption. The foundational errors are the following:
+
+### Credit swap systems (money) 
+Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of econmics that take systems for granted fail to provide scientific grounds for reasonable analysis.
+
+
+
