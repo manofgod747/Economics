@@ -58,7 +58,7 @@ Unproductive endeavours.
 ### A Note on Classical Economics
 Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions made by Richard Keynes, The Chicago School of Economics...
 
-The principles of classical economics make errors of assumption. These assumptions serve to complicate and confuse economic theory. The foundational errors are the following:
+The principles (or lack of principles) of classical economics makes errors of assumption. These assumptions serve to complicate and confuse economic theory. The foundational errors are the following:
 
 ### Credit swap systems (Money) 
 Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of econmics that take systems for granted fail to provide scientific grounds for reasonable analysis. 
