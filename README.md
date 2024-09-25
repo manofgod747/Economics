@@ -4,10 +4,10 @@ Economics is the scientific study of natural resource distribution. The goal of 
 ## Definitions
 
 #### Output
-The amount of natural resource extraction per time unit
+The amount of natural resource extraction per time unit.
 
 #### Technology
-Technology is synonymous to the word tool
+Technology is synonymous to the word tool.
 
 #### Logistics
 The system of organization used to solve complex problems.
@@ -30,9 +30,9 @@ Unproductive endeavours.
 ## The Axioms of Economics
 
 ### Natural Axioms
-1. Humans
-2. Animals
-3. Natural Resources
+1. Humans and psychology
+3. Animals
+4. Natural Resources
 
 ### Foundational Axioms
 1. Output
@@ -45,6 +45,14 @@ Unproductive endeavours.
 1. Optimize Output
 2. Minimize Pollution
 3. Minimize Technology
+
+## Foundation
+
+### Criteria for Output Optimization
+1. Why is optimization of output necessary?
+2. What are the criteria for optimization?
+3. How do we select what the optimal level of output is?
+4. What variables fluctuate the level of output? 
 
 ## Appendix
 ### A Note on Classical Economics
@@ -68,5 +76,17 @@ Employment can only be defined in relation to money. It is not a meaningful conc
 Corporations can only be defined in relation to money and legislation. Corporations would not exist where it not for the legal and monetary benefits they provide. Corporations could be abolished if legislation was made fair. 
 
 The role of corporations and employment are both better modeled using agreement (contract). 
+
+### Gross National Product (GDP)
+The measure of GDP is loosely defined as the sum of all monetary activity, disconnected from actual resource manipulation. It is a senseless measure that does not aid in reasonable analysis.
+
+### GDP growth
+Since GDP is senseless so is the growth thereof. It is a variable that blinds politicans and economists alike. 
+
+### Equlibrium and the missing axiom
+Classical economics revolve around the analysis of variable equlibrium. Systems reach a point of equlibrium by natural causes and fluctuate around that state. Classical macro economic theory fails to define an equlibrium for GDP. It is a free variable that makes the entire theory pointless.  
+
+### Linear Models
+Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. 
 
 
