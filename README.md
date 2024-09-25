@@ -34,6 +34,7 @@ Unproductive endeavours.
 3. Animals
 4. Natural Resources
 5. Water
+6. Time
 
 ### Foundational Axioms
 1. Output
