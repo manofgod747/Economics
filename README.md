@@ -81,7 +81,7 @@ Classic Economics take credit swap systems for granted. There is nothing inheren
 Interest rates are an arbitrary invention that lack reasonable purpose. Central banks fail to motivate the existence of interest rates. Interest rates are set to meet some arbitrary value with no scientific justification whatsoever.
 
 ### Taxation
-From an objective standpoint, taxation is fraud. Fraud is defined as wrongful or criminal deception intented to result in financial or personal gain. Taxation is taken for granted because of force of habit.
+From an objective standpoint, taxation is fraud. Fraud is defined as wrongful or criminal deception intented to result in financial or personal gain. Taxation is taken for granted because by force.
 
 ### Employment
 Employment can only be defined in relation to money. It is not a meaningful concept. 
