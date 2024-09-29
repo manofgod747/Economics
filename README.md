@@ -102,6 +102,6 @@ Since GDP is senseless so is the growth thereof. It is a variable that blinds po
 Classical economics revolve around the analysis of variable equlibrium. Systems reach a point of equlibrium by natural causes and fluctuate around that state. Classical macro economic theory fails to define an equlibrium for GDP. It is a free variable that makes the entire theory pointless.  
 
 ### Linear Models
-Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. Predictions also need clear problem definitions. What can we predict and what should we try to predict?
+Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. Predictions also need clear problem definitions. What can we predict and what should we try to predict? I.e. what is the goal of economic theory?
 
 
