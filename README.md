@@ -71,7 +71,7 @@ Output defines the rate of natural resource extraction. Output rate depends on p
 
 ## Appendix
 ### A Note on Classical Economics
-Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions made by Richard Keynes, The Chicago School of Economics...
+Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions, or manipulations, made by Richard Keynes. The Chicago School of Economics is based on sound reasoning but lacks theoretical maturity. The Austrian School of Economics is likewise based on sound reasoning but does not aim to model anything.
 
 The principles (or lack of principles) of classical economics makes errors of assumption. These assumptions serve to complicate and confuse economic theory. The foundational errors are the following:
 
@@ -85,7 +85,7 @@ Interest rates are an arbitrary invention that lack reasonable purpose. Central 
 From an objective standpoint, taxation is fraud. Fraud is defined as wrongful or criminal deception intented to result in financial or personal gain. Taxation is taken for granted by force.
 
 ### Employment
-Employment can only be defined in relation to money. It is not a meaningful concept. 
+Employment can only be defined in relation to money and corporations. It is not a meaningful concept. Humans do not live to have corporate employment. 
 
 ### Corporations
 Corporations can only be defined in relation to money and legislation. Corporations would not exist where it not for the legal and monetary benefits they provide. Corporations could be abolished if legislation was made fair. 
@@ -102,6 +102,6 @@ Since GDP is senseless so is the growth thereof. It is a variable that blinds po
 Classical economics revolve around the analysis of variable equlibrium. Systems reach a point of equlibrium by natural causes and fluctuate around that state. Classical macro economic theory fails to define an equlibrium for GDP. It is a free variable that makes the entire theory pointless.  
 
 ### Linear Models
-Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. 
+Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. Predictions also need clear problem definitions. What can we predict and what should we try to predict?
 
 
