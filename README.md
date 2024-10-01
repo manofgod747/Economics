@@ -3,6 +3,9 @@ Economics is the scientific study of natural resource distribution. The goal of 
 
 ## Definitions
 
+#### Health
+The psychological well being of humans and animals alike.
+
 #### Output
 The amount of natural resource extraction per time unit.
 
@@ -38,9 +41,10 @@ Unproductive endeavours.
 ### Natural Axioms
 1. Humans
 3. Animals
-4. Natural Resources
-5. Water
-6. Time
+4. Health
+5. Natural Resources
+6. Water
+7. Time
 
 ### Foundational Axioms
 1. Output
