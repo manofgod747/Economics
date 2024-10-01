@@ -59,7 +59,7 @@ Population density has psychological implications that govern human and animal b
 
 Degenerations increases violence. Violence causes trauma. Trauma leads to ignorance. Ignorance leads to conflict. Conflict decreases trust. Low levels of trust makes people fearful. Fear and ignorace corrupts systems. A corrupted system degenerates further and breaks apart. 
 
-Poorly designed cities that do not take into account the psychological aspects of life naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth.
+Poorly designed cities that do not take the psychological aspects of life into account naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth.
 
 ## Foundation
 
