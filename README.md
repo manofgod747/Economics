@@ -27,6 +27,9 @@ Politics is the system of governance involved in matters of output, pollution, t
 #### Taxation
 Taxation is a method of coercive resource redistribution to an enemy
 
+#### Central Bank
+A political institution that controls the credit swap system
+
 #### Transaction Cost
 Unproductive endeavours.
 
@@ -45,12 +48,18 @@ Unproductive endeavours.
 3. Politics
 4. Technology
 5. Transaction Cost
-6. Taxation
+6. Credit Swap Systems (i.e. Money)
+7. Taxation
 
 ### Directional Axioms
 1. Optimize Output
 2. Minimize Pollution
 3. Minimize Technology
+
+## Hypothesis
+These are the questions that this theory aims to provide analytical tools for answering.
+
+1. What is the expected time window of insolvency for a 
 
 ## Psychology
 
