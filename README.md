@@ -80,10 +80,10 @@ Classical Economics is defined as the current (2024) leading economic theories t
 The principles (or lack of principles) of classical economics makes errors of assumption. These assumptions serve to complicate and confuse economic theory. The foundational errors are the following:
 
 ### Credit swap systems (Money) 
-Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of econmics that take systems for granted fail to provide scientific grounds for reasonable analysis. 
+Classic Economics take credit swap systems for granted. There is nothing inherently natural about such systems and therefore the theories of economics that takes systems for granted fail to provide scientific grounds for reasonable analysis. 
 
 ### Interest Rates
-Interest rates are an arbitrary invention that lack reasonable purpose. Central banks fail to motivate the existence of interest rates. Interest rates are set to meet some arbitrary value with no scientific justification whatsoever.
+Interest rates are an arbitrary invention within credit swap systems that lacks reasonable purpose. It is a manipulation tactic to gain more from less lending. Central banks fail to motivate the existence of interest rates. Interest rates are set to some arbitrary value with no scientific justification.
 
 ### Taxation
 From an objective standpoint, taxation is fraud. Fraud is defined as wrongful or criminal deception intented to result in financial or personal gain. Taxation is taken for granted by force.
