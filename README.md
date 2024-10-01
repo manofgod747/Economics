@@ -24,6 +24,9 @@ A mathematical term that describes the methods used to meet certain well defined
 #### Politics
 Politics is the system of governance involved in matters of output, pollution, technology and optimization.
 
+#### Taxation
+Taxation is a method of resource redistribution to an enemy that takes the right to redistribute by force
+
 #### Transaction Cost
 Unproductive endeavours.
 
