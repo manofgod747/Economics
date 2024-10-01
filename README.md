@@ -55,9 +55,9 @@ Unproductive endeavours.
 ## Psychology
 
 ### Population Density
-Population density has psychological implications that govern human and animal behaviour. As population density increases, behaviour degenerates. The degeneration of behaviour is an effect of the limitations of the human mind in how many people can be known and trusted. The number is low compared to the population of densly populated areas. Social norms break apart as populations increase. Communication suffers. All densly populated areas inevitably fall due to this phenomenom.
+Population density has psychological implications that govern human and animal behaviour. As population density increases, behaviour degenerates. The degeneration of behaviour is an effect of the limitations of the human mind as to how many people can be known and trusted. The number is low compared to the population of densly populated areas. Social norms break apart as populations increase. Communication suffers. All densly populated areas inevitably fall due to this phenomenom.
 
-Degenerations increases violence. Violence causes trauma. Trauma leads to ignorance. Ignorance leads to conflict. Conflict decreases trust. Low levels of trust makes people fearful. Fear and ignorace corrupts systems. A corrupted system breaks apart. 
+Degenerations increases violence. Violence causes trauma. Trauma leads to ignorance. Ignorance leads to conflict. Conflict decreases trust. Low levels of trust makes people fearful. Fear and ignorace corrupts systems. A corrupted system degenerates further and breaks apart. 
 
 Poorly designed cities that do not take into account the psychological aspects of life naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth.
 
