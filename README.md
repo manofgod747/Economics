@@ -59,7 +59,7 @@ Unproductive endeavours.
 ## Hypothesis
 These are the questions that this theory aims to provide analytical tools for answering.
 
-1. What is the expected time window of insolvency for a central bank
+1. What is the expected time window of insolvency for a central bank 
 2. What is the rate of taxation compared to total national resource manipulation
 
 ## Psychology
