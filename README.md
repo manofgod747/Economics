@@ -45,6 +45,7 @@ Unproductive endeavours.
 3. Politics
 4. Technology
 5. Transaction Cost
+6. Taxation
 
 ### Directional Axioms
 1. Optimize Output
