@@ -36,6 +36,9 @@ A political institution that controls the credit swap system
 #### Transaction Cost
 Unproductive endeavours.
 
+#### Credit Swap System (Money)
+Synonymous to Money. A system of wealth book keeping and a means of trade.
+
 ## The Axioms of Economics
 
 ### Natural Axioms
@@ -52,7 +55,7 @@ Unproductive endeavours.
 3. Politics
 4. Technology
 5. Transaction Cost
-6. Credit Swap Systems (i.e. Money)
+6. Credit Swap Systems
 7. Taxation
 
 ### Directional Axioms
@@ -63,10 +66,20 @@ Unproductive endeavours.
 ## Hypothesis
 These are the questions that this theory aims to provide analytical tools for answering.
 
-1. What is the expected time window of insolvency for a central bank 
-2. What is the rate of taxation compared to total national resource manipulation
+1. What is the expected time window of insolvency for a central bank?
+2. What is the proportion of taxation compared to total national resource manipulation?
+3. What is the resource use of government compare to non government?
+4. What are desired characterstics of money in terms of fairness, freedom and autonomy?
+5. What are the wealth redistribution consequences of a given CSS?
+6. What are the desired properties of electronic money?
+7. What are the mathematical principles behind (electronic) money?
+8. Is perfect money possible? What is perfect money?
+9. What is the role of centralization vs decentralization in terms of money.
+10. How is minimized pollution incentivized?
+11. How is minimal technology incentivized?
+12. What are the criteria for optimal output?
 
-## Psychology
+## Economic Psychology
 
 ### Population Density
 Population density has psychological implications that govern human and animal behaviour. As population density increases, behaviour degenerates. The degeneration of behaviour is an effect of the limitations of the human mind as to how many people can be known and trusted. The number is low compared to the population of densly populated areas. Social norms break apart as populations increase. Communication suffers. All densly populated areas inevitably fall due to this phenomenom.
