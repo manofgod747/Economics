@@ -102,7 +102,7 @@ Output defines the rate of natural resource extraction. Output rate depends on p
 
 ## Appendix
 ### A Note on Classical Economics
-Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions, or manipulations, made by Richard Keynes. The Chicago School of Economics is based on sound reasoning but lacks theoretical maturity. The Austrian School of Economics is likewise based on sound reasoning but does not aim to model anything.
+Classical Economics is defined as the current (2024) leading economic theories that revolve around the theoretical assumptions, or manipulations, made by Richard Keynes. The Chicago School of Economics is based on sound reasoning but lacks theoretical maturity and idolizes government. The Austrian School of Economics is likewise based on sound reasoning in principal but does not aim to model anything.
 
 The principles (or lack of principles) of classical economics makes errors of assumption. These assumptions serve to complicate and confuse economic theory. The foundational errors are the following:
 
@@ -115,24 +115,24 @@ Interest rates are an arbitrary invention within credit swap systems that lacks 
 ### Taxation
 From an objective standpoint, taxation is fraud. Fraud is defined as wrongful or criminal deception intented to result in financial or personal gain. Taxation is taken for granted by force.
 
+### Corporations
+Corporations can only be defined in relation to money and legislation. Corporations would not exist where it not for the legal and monetary benefits they provide. Corporations would be abolished if legislation was fair. 
+
 ### Employment
 Employment can only be defined in relation to money and corporations. It is not a meaningful concept. Humans do not live to have corporate employment. 
 
-### Corporations
-Corporations can only be defined in relation to money and legislation. Corporations would not exist where it not for the legal and monetary benefits they provide. Corporations could be abolished if legislation was made fair. 
-
 The role of corporations and employment are both better modeled using agreement (contract). 
 
-### Gross National Product (GDP)
-The measure of GDP is loosely defined as the sum of all monetary activity, disconnected from actual resource manipulation. It is a senseless measure that does not aid in reasonable analysis.
+### Gross Domestic Product (GDP)
+The measure of GDP is loosely defined as the sum of all monetary activity disconnected from actual resource manipulation. It is a senseless measure that does not aid in reasonable analysis. It is a manipulation tactic.
 
 ### GDP growth
 Since GDP is senseless so is the growth thereof. It is a variable that blinds politicans and economists alike. 
 
 ### Equlibrium and the missing axiom
-Classical economics revolve around the analysis of variable equlibrium. Systems reach a point of equlibrium by natural causes and fluctuate around that state. Classical macro economic theory fails to define an equlibrium for GDP. It is a free variable that makes the entire theory pointless.  
+Classical economics revolve around the analysis of variable equlibrium. Systems reach a point of equlibrium by natural causes and fluctuate around that state. Classical macro economic theory fails to define an equlibrium for GDP. It is a free variable that makes the entire theory pointless. If GDP equlibrium was defined, it would have consequences for central banking and interest rates.
 
 ### Linear Models
-Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. Predictions also need clear problem definitions. What can we predict and what should we try to predict? I.e. what is the goal of economic theory?
+Classical Economic theory is based on linear mathematical models that try to predict future economic activity. There is nothing linear about complicated human societies. Economic theories need more sophisticated mathematical tools if predictions are to be made. Predictions also need clear problem definitions. What can we predict and what should we try to predict? I.e. what is the goal of economic theory? Modern economics makes no effort in providing clarity.
 
 
