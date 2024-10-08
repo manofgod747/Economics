@@ -36,7 +36,7 @@ A political institution that controls the credit swap system
 #### Transaction Cost
 Unproductive endeavours.
 
-#### Credit Swap System (Money)
+#### Credit Swap System (CSS, Money)
 Synonymous to Money. A system of wealth book keeping and a means of trade.
 
 ## The Axioms of Economics
@@ -78,6 +78,9 @@ These are the questions that this theory aims to provide analytical tools for an
 10. How is minimized pollution incentivized?
 11. How is minimal technology incentivized?
 12. What are the criteria for optimal output?
+13. What is the level of resource self sufficiency for a geographical area?
+14. How much time is necessary for an external resource dependent area to become independent? Agriculture and living.
+15. What is the level of resource manipulation redundancy in terms of external risks/threats?
 
 ## Economic Psychology
 
