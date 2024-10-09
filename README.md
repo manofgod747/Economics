@@ -100,7 +100,18 @@ Idolization is another way to put it. Creating false idols, and using the idoliz
 
 High population density increases trauma. Bodies that are close inevitably collide. 
 
-## Foundation
+## Central Banking
+A central bank is an organisation usually under political rule that controls a credit swap system. Government and central banks have interdependecy. The governments acts throught monetary policy. Central banks control money distribution and stability.
+
+A central bank can lend and borrow foreign money. Lending provides income in relation to interest rates and borrowing is a cost for the same reason.
+
+loss-velocity = debt * mean-interest-rate-debt
+gain-velocity = lending * mean-interest-rate-lending
+reserves = liquifiable assets
+
+profit = gain-velocity >= loss-velocity
+insolvency-risk = non profit
+
 
 ### Criteria for Output Optimization
 1. Why is optimization of output necessary?
