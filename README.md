@@ -89,7 +89,7 @@ Population density has psychological implications that govern human and animal b
 
 Degenerations increases violence. Violence causes trauma. Trauma leads to ignorance. Ignorance leads to conflict. Conflict decreases trust. Low levels of trust makes people fearful. Fear and ignorace corrupts systems. A corrupted system degenerates further and breaks apart. 
 
-Poorly designed cities that do not take the psychological aspects of life into account naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth.
+Poorly designed cities that do not take the psychological aspects of life into account naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth. 
 
 ### Trauma
 Trauma governs misbehaviour. One form of misbehaviour is unfair resource distribution. Unfair resource distribution is defined as a group of people taking more resources for themselfes than what is necessary, at the cost of others suffering resource shortages.
@@ -99,6 +99,8 @@ The ones who engaged in misbehaviour will justify their actions as fair, even th
 Idolization is another way to put it. Creating false idols, and using the idolized as bait for unjust actions. The idolized are in a precarious position of both power and sudden loss. Since the power is unearned, sudden loss is just a matter of insight from those who idolize. 
 
 High population density increases trauma. Bodies that are close inevitably collide. 
+
+There is a margin between viscious cycles and productive cycles. The margin depends on city planning, Life needs social norms and levels of freedom that enables autonomy and non violence.  
 
 ## Central Banking
 A central bank is an organisation usually under political rule that controls a credit swap system. Government and central banks have interdependecy. The governments acts throught monetary policy. Central banks control money distribution and stability.
