@@ -100,7 +100,7 @@ Idolization is another way to put it. Creating false idols, and using the idoliz
 
 High population density increases trauma. Bodies that are close inevitably collide. 
 
-There is a margin between viscious cycles and productive cycles. The margin depends on city planning, Life needs social norms and levels of freedom that enables autonomy and non violence.  
+There is a margin between viscious cycles and productive cycles. The margin depends on city planning. Life needs social norms and levels of freedom that enables autonomy and non violence. Autonomy is the individual and group understanding and responsibility of how needs are satisfied. Non violence is the abscence of fraud and deception.
 
 ## Central Banking
 A central bank is an organisation usually under political rule that controls a credit swap system. Government and central banks have interdependecy. The governments acts throught monetary policy. Central banks control money distribution and stability.
