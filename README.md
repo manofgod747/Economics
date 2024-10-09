@@ -91,6 +91,13 @@ Degenerations increases violence. Violence causes trauma. Trauma leads to ignora
 
 Poorly designed cities that do not take the psychological aspects of life into account naturally breaks apart and are left desolate. This phenomenon can be observed in all life on earth.
 
+### Trauma
+Trauma governs misbehaviour. One form of misbehaviour is unfair resource distribution. Unfair resource distribution is defined as a group of people taking more resources for themselfes than what is necessary, at the cost of others suffering resource shortages.
+
+The ones who engaged in misbehaviour will justify their actions as fair, even thought the suffering of the other is clear. The justification is based on past unfairness that is repeated, projected and used as justification in circular arguments. Thinking from foundational principles becomes impossible. Whatever system that is in place is used as evidence for justified misbehaviour. 
+
+Idolization is another way to put it. Creating false idols, and using the idolized as bait for unjust actions. The idolized are in a precarious position of both power and sudden loss. Since the power is unearned, sudden loss is just a matter of insight from those who idolize. 
+
 ## Foundation
 
 ### Criteria for Output Optimization
