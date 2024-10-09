@@ -98,6 +98,8 @@ The ones who engaged in misbehaviour will justify their actions as fair, even th
 
 Idolization is another way to put it. Creating false idols, and using the idolized as bait for unjust actions. The idolized are in a precarious position of both power and sudden loss. Since the power is unearned, sudden loss is just a matter of insight from those who idolize. 
 
+High population density increases trauma. Bodies that are close inevitably collide. 
+
 ## Foundation
 
 ### Criteria for Output Optimization
