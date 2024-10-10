@@ -108,10 +108,13 @@ A central bank is an organisation usually under political rule that controls a c
 A central bank can lend and borrow foreign money. Lending provides income in relation to interest rates and borrowing is a cost for the same reason.
 
 loss-velocity = debt * mean-interest-rate-debt
+
 gain-velocity = lending * mean-interest-rate-lending
+
 reserves = liquifiable assets
 
 profit = gain-velocity >= loss-velocity
+
 insolvency-risk = non profit
 
 
@@ -123,7 +126,8 @@ insolvency-risk = non profit
 
 Output defines the rate of natural resource extraction. Output rate depends on population size and the technological living standard, 
 
-## Taxation Analysis
+## Taxation
+...
 
 ## Appendix
 ### A Note on Classical Economics
